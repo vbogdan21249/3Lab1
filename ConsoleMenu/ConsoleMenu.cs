@@ -112,7 +112,7 @@ public class ConsoleMenu
     private static void showDatabase()
     {
         Console.Clear();
-        ManageEntities.listOfEntities(0);
+        EntitiesManager.listOfEntities(0);
         Console.ReadLine();
     }
 
@@ -120,14 +120,14 @@ public class ConsoleMenu
     {
         Console.Clear();
         Console.WriteLine("Choose person to delete. Enter 'x' to return.\n");
-        ManageEntities.listOfEntities(1);
+        EntitiesManager.listOfEntities(1);
         while (true)
         {
             try
             {
                 string input = Console.ReadLine();
                 if (input == "x") break;
-                ManageEntities.deleteEntity(int.Parse(input));
+                EntitiesManager.deleteEntity(int.Parse(input));
                 break;
             }
             catch (Exception e)
@@ -140,7 +140,7 @@ public class ConsoleMenu
     private static void calculate()
     {
         Console.Clear();
-        ManageEntities.searchStudent();
+        EntitiesManager.searchStudent();
         Console.ReadLine();
     }
     private static void clearDB()
@@ -160,13 +160,13 @@ public class ConsoleMenu
     {
         Console.Clear();
 
-        ManageEntities.listOfEntities(2);
+        EntitiesManager.listOfEntities(2);
         while (true)
         {
             try
             {
                 string input = Console.ReadLine();
-                string[] info = ManageEntities.RecreateFromDB(int.Parse(input));
+                string[] info = EntitiesManager.RecreateFromDB(int.Parse(input));
                 if (info[0] == "Student")
                 {
                     Student student = new Student(info[1], info[2], info[3], int.Parse(info[4]), info[5], info[6]);
