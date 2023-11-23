@@ -43,8 +43,8 @@
   "libraries": {
     "BuisnessLogic/1.0.0": {
       "type": "project",
-      "path": "../ClassLibrary1/BuisnessLogic.csproj",
-      "msbuildProject": "../ClassLibrary1/BuisnessLogic.csproj"
+      "path": "../BuisnessLogic/BuisnessLogic.csproj",
+      "msbuildProject": "../BuisnessLogic/BuisnessLogic.csproj"
     },
     "ConsoleMenu/1.0.0": {
       "type": "project",

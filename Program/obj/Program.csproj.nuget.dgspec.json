@@ -4,14 +4,14 @@
     "D:\\OOP\\Lab_1\\Program\\Program.csproj": {}
   },
   "projects": {
-    "D:\\OOP\\Lab_1\\ClassLibrary1\\BuisnessLogic.csproj": {
+    "D:\\OOP\\Lab_1\\BuisnessLogic\\BuisnessLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OOP\\Lab_1\\ClassLibrary1\\BuisnessLogic.csproj",
+        "projectUniqueName": "D:\\OOP\\Lab_1\\BuisnessLogic\\BuisnessLogic.csproj",
         "projectName": "BuisnessLogic",
-        "projectPath": "D:\\OOP\\Lab_1\\ClassLibrary1\\BuisnessLogic.csproj",
+        "projectPath": "D:\\OOP\\Lab_1\\BuisnessLogic\\BuisnessLogic.csproj",
         "packagesPath": "C:\\Users\\bbc21\\.nuget\\packages\\",
-        "outputPath": "D:\\OOP\\Lab_1\\ClassLibrary1\\obj\\",
+        "outputPath": "D:\\OOP\\Lab_1\\BuisnessLogic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bbc21\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -87,8 +87,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\OOP\\Lab_1\\ClassLibrary1\\BuisnessLogic.csproj": {
-                "projectPath": "D:\\OOP\\Lab_1\\ClassLibrary1\\BuisnessLogic.csproj"
+              "D:\\OOP\\Lab_1\\BuisnessLogic\\BuisnessLogic.csproj": {
+                "projectPath": "D:\\OOP\\Lab_1\\BuisnessLogic\\BuisnessLogic.csproj"
               }
             }
           }

@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuisnessLogic", "ClassLibrary1\BuisnessLogic.csproj", "{2410F908-1C7A-4447-84F9-46128B63029E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DB", "DB\DB.csproj", "{428DA84C-E798-4C8B-AFD7-C3CA17F95F21}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DB", "DB\DB.csproj", "{428DA84C-E798-4C8B-AFD7-C3CA17F95F21}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Program", "Program\Program.csproj", "{AA18BFCC-B447-4EE4-AB2D-2FBAAE81B0C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program", "Program\Program.csproj", "{AA18BFCC-B447-4EE4-AB2D-2FBAAE81B0C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleMenu", "ConsoleMenu\ConsoleMenu.csproj", "{C74CE401-78A7-4DD5-8BDC-52218E36750A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleMenu", "ConsoleMenu\ConsoleMenu.csproj", "{C74CE401-78A7-4DD5-8BDC-52218E36750A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuisnessLogic", "BuisnessLogic\BuisnessLogic.csproj", "{6B66297B-6253-469C-9642-A01C2EB6CEEE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{2410F908-1C7A-4447-84F9-46128B63029E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2410F908-1C7A-4447-84F9-46128B63029E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2410F908-1C7A-4447-84F9-46128B63029E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2410F908-1C7A-4447-84F9-46128B63029E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{428DA84C-E798-4C8B-AFD7-C3CA17F95F21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{428DA84C-E798-4C8B-AFD7-C3CA17F95F21}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{428DA84C-E798-4C8B-AFD7-C3CA17F95F21}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -33,6 +29,10 @@ Global
 		{C74CE401-78A7-4DD5-8BDC-52218E36750A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C74CE401-78A7-4DD5-8BDC-52218E36750A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C74CE401-78A7-4DD5-8BDC-52218E36750A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B66297B-6253-469C-9642-A01C2EB6CEEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B66297B-6253-469C-9642-A01C2EB6CEEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B66297B-6253-469C-9642-A01C2EB6CEEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B66297B-6253-469C-9642-A01C2EB6CEEE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

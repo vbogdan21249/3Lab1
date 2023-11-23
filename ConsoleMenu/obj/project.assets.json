@@ -30,8 +30,8 @@
   "libraries": {
     "BuisnessLogic/1.0.0": {
       "type": "project",
-      "path": "../ClassLibrary1/BuisnessLogic.csproj",
-      "msbuildProject": "../ClassLibrary1/BuisnessLogic.csproj"
+      "path": "../BuisnessLogic/BuisnessLogic.csproj",
+      "msbuildProject": "../BuisnessLogic/BuisnessLogic.csproj"
     },
     "DB/1.0.0": {
       "type": "project",
@@ -71,8 +71,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\OOP\\Lab_1\\ClassLibrary1\\BuisnessLogic.csproj": {
-              "projectPath": "D:\\OOP\\Lab_1\\ClassLibrary1\\BuisnessLogic.csproj"
+            "D:\\OOP\\Lab_1\\BuisnessLogic\\BuisnessLogic.csproj": {
+              "projectPath": "D:\\OOP\\Lab_1\\BuisnessLogic\\BuisnessLogic.csproj"
             }
           }
         }
