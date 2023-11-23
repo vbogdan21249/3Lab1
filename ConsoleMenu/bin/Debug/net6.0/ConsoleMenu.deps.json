@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ConsoleMenu/1.0.0": {
+        "dependencies": {
+          "BuisnessLogic": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleMenu.dll": {}
+        }
+      },
+      "BuisnessLogic/1.0.0": {
+        "dependencies": {
+          "DB": "1.0.0"
+        },
+        "runtime": {
+          "BuisnessLogic.dll": {}
+        }
+      },
+      "DB/1.0.0": {
+        "runtime": {
+          "DB.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleMenu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BuisnessLogic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DB/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

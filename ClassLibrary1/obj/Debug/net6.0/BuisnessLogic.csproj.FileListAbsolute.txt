@@ -1,0 +1,15 @@
+D:\OOP\Lab_1\ClassLibrary1\obj\Debug\net6.0\BuisnessLogic.csproj.AssemblyReference.cache
+D:\OOP\Lab_1\ClassLibrary1\obj\Debug\net6.0\BuisnessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\Lab_1\ClassLibrary1\obj\Debug\net6.0\BuisnessLogic.AssemblyInfoInputs.cache
+D:\OOP\Lab_1\ClassLibrary1\obj\Debug\net6.0\BuisnessLogic.AssemblyInfo.cs
+D:\OOP\Lab_1\ClassLibrary1\obj\Debug\net6.0\BuisnessLogic.csproj.CoreCompileInputs.cache
+D:\OOP\Lab_1\ClassLibrary1\bin\Debug\net6.0\BuisnessLogic.deps.json
+D:\OOP\Lab_1\ClassLibrary1\bin\Debug\net6.0\BuisnessLogic.dll
+D:\OOP\Lab_1\ClassLibrary1\bin\Debug\net6.0\BuisnessLogic.pdb
+D:\OOP\Lab_1\ClassLibrary1\bin\Debug\net6.0\DB.dll
+D:\OOP\Lab_1\ClassLibrary1\bin\Debug\net6.0\DB.pdb
+D:\OOP\Lab_1\ClassLibrary1\obj\Debug\net6.0\BuisnessLogic.csproj.CopyComplete
+D:\OOP\Lab_1\ClassLibrary1\obj\Debug\net6.0\BuisnessLogic.dll
+D:\OOP\Lab_1\ClassLibrary1\obj\Debug\net6.0\refint\BuisnessLogic.dll
+D:\OOP\Lab_1\ClassLibrary1\obj\Debug\net6.0\BuisnessLogic.pdb
+D:\OOP\Lab_1\ClassLibrary1\obj\Debug\net6.0\ref\BuisnessLogic.dll

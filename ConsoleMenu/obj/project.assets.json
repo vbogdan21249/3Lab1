@@ -1,0 +1,109 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "BuisnessLogic/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "DB": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BuisnessLogic.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BuisnessLogic.dll": {}
+        }
+      },
+      "DB/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/DB.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DB.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BuisnessLogic/1.0.0": {
+      "type": "project",
+      "path": "../ClassLibrary1/BuisnessLogic.csproj",
+      "msbuildProject": "../ClassLibrary1/BuisnessLogic.csproj"
+    },
+    "DB/1.0.0": {
+      "type": "project",
+      "path": "../DB/DB.csproj",
+      "msbuildProject": "../DB/DB.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "BuisnessLogic >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\bbc21\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\OOP\\Lab_1\\ConsoleMenu\\ConsoleMenu.csproj",
+      "projectName": "ConsoleMenu",
+      "projectPath": "D:\\OOP\\Lab_1\\ConsoleMenu\\ConsoleMenu.csproj",
+      "packagesPath": "C:\\Users\\bbc21\\.nuget\\packages\\",
+      "outputPath": "D:\\OOP\\Lab_1\\ConsoleMenu\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\bbc21\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "D:\\OOP\\Lab_1\\ClassLibrary1\\BuisnessLogic.csproj": {
+              "projectPath": "D:\\OOP\\Lab_1\\ClassLibrary1\\BuisnessLogic.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

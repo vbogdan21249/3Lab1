@@ -1,0 +1,17 @@
+D:\OOP\Lab_1\ConsoleMenu\obj\Debug\net6.0\ConsoleMenu.csproj.AssemblyReference.cache
+D:\OOP\Lab_1\ConsoleMenu\obj\Debug\net6.0\ConsoleMenu.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\Lab_1\ConsoleMenu\obj\Debug\net6.0\ConsoleMenu.AssemblyInfoInputs.cache
+D:\OOP\Lab_1\ConsoleMenu\obj\Debug\net6.0\ConsoleMenu.AssemblyInfo.cs
+D:\OOP\Lab_1\ConsoleMenu\obj\Debug\net6.0\ConsoleMenu.csproj.CoreCompileInputs.cache
+D:\OOP\Lab_1\ConsoleMenu\bin\Debug\net6.0\ConsoleMenu.deps.json
+D:\OOP\Lab_1\ConsoleMenu\bin\Debug\net6.0\ConsoleMenu.dll
+D:\OOP\Lab_1\ConsoleMenu\bin\Debug\net6.0\ConsoleMenu.pdb
+D:\OOP\Lab_1\ConsoleMenu\bin\Debug\net6.0\BuisnessLogic.dll
+D:\OOP\Lab_1\ConsoleMenu\bin\Debug\net6.0\DB.dll
+D:\OOP\Lab_1\ConsoleMenu\bin\Debug\net6.0\BuisnessLogic.pdb
+D:\OOP\Lab_1\ConsoleMenu\bin\Debug\net6.0\DB.pdb
+D:\OOP\Lab_1\ConsoleMenu\obj\Debug\net6.0\ConsoleMenu.csproj.CopyComplete
+D:\OOP\Lab_1\ConsoleMenu\obj\Debug\net6.0\ConsoleMenu.dll
+D:\OOP\Lab_1\ConsoleMenu\obj\Debug\net6.0\refint\ConsoleMenu.dll
+D:\OOP\Lab_1\ConsoleMenu\obj\Debug\net6.0\ConsoleMenu.pdb
+D:\OOP\Lab_1\ConsoleMenu\obj\Debug\net6.0\ref\ConsoleMenu.dll
